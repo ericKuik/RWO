@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="e4d99cfd" name="Beschikbaarheid berekening" documentation="De beschikbaarheid voor Werkomgeving Services, basisfunctionaliteit en eventuele Standaard Aanvullingen wordt berekend over de gehele keten van de Rijkswerkomgeving tot en met rekencentrum. &#xA;De beschikbaarheid voor Applicatie Delivery Service (ADS) en Ontwikkelservices (OS) wordt berekend per applicatie (ADS) respectievelijk per omgeving (Ontwikkelservices)."/>

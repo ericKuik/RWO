@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="21639ff5" name="De reactiesnelheid van reageren op invoer is &lt; 0,1 seconde" documentation="De reactiesnelheid wordt gedefinieerd als de tijd die verstrijkt tussen de actie van de gebruiker en de zichtbare en verwachte reactie van de werkplekservice (veelal op het beeldscherm). Deze tijd is inclusief de verwerkingstijd op de werkplek, benodigde tijd in het (interne en eventueel externe) netwerk, verwerkingstijd in het rekencentrum, ophalen van gegevens, et cetera. De reactiesnelheid is een maximum, geen gemiddelde.">
+  <properties key="Brondocument" value="SLA Atos OCW"/>
+</archimate:Requirement>

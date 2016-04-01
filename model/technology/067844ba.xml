@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="067844ba" name="Client OS" documentation="De basisfuncties die noodzakelijk zijn om client hardware (oa desktop, laptop, tablet, smartphone)  te kunnen gebruiken.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

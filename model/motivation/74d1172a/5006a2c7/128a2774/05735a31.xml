@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="05735a31" name="Beschikbare gegevensopslag" documentation="•&#x9;Opslag voor e-mail en generieke infrastructuurservices voor de mailservice;&#xA;•&#x9;Groeps- en persoonlijke data middels “shares”;&#xA;•&#x9;Gebruikersprofielen voor de werkomgeving;&#xA;•&#x9;Applicatie- en file services ten behoeve van de BTO’s;&#xA;•&#x9;Back-up services naar tape ten behoeve van back-up/restore processen, disaster recovery en bewaarplicht van data.&#xA;"/>

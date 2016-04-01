@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="273f2b99" name="Service level management " documentation="Het integraal bewaken van de service levels, zowel tactisch als operationeel.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

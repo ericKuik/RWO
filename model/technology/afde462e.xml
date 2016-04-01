@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="afde462e" name="Application server " documentation="Het op een beheersbare en transactionele wijze uitvoeren van verwerkingslogica.&#xA;&#xA;IIS&#xA;tomcat&#xA;NginX&#xA;weblogic (oracle)&#xA;"/>

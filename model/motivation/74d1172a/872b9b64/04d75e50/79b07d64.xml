@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="79b07d64" name="OTA werkomgeving services bevat dezelfde elementen als de productie omgeving" documentation="De OTA Werkomgeving Services bevat dezelfde elementen als de Werkomgeving Services uit de Productie-omgeving (vergelijk hoofdstuk 3):&#xA;•&#x9;Een medewerkersaccount;&#xA;•&#x9;De basisfunctionaliteiten (voor een beschrijving zie hoofdstuk 3), m.u.v.  profielvirtualisatie, die alleen in de A-omgeving beschikbaar is. &#xA;"/>

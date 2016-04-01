@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="9092fd06" name="Partner integration " documentation="Het coördineren van berichtuitwisseling met andere organisaties&#xA;- VPN, meer op infra niveau&#xA;- geen WUS/eBMS koppelingen&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

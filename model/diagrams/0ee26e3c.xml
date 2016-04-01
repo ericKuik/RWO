@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="0ee26e3c" name="OCW component view" documentation="legenda:&#xA;&#xA;blauw functioneel geleverd RWO&#xA;grijs vervalt&#xA;geel is nog onduidelijk&#xA;groen wordt geleverd door SSO-N&#xA;Wit geleverd door ODCN&#xA;paars is buiten scope&#xA;">
+  <children xsi:type="archimate:DiagramModelGroup" id="789ee327" name="Applicatie Hosting" textAlignment="1">
+    <bounds x="52" y="172" width="201" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="2a54021b" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="108" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/50383554.xml#50383554"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="44e22aa1" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="192" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/2e0088cc.xml#2e0088cc"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="ab69f363" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="276" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/dcf3126f.xml#dcf3126f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="b1c4ddf4" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="360" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/3aa52228.xml#3aa52228"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="91150445" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="432" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/943ef3b2.xml#943ef3b2"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="a3092cae" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="504" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/fb269fc9.xml#fb269fc9"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="2c6d8d99" textAlignment="2" fillColor="#ffffff" type="1">
+      <bounds x="24" y="576" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/8bf9d6a4.xml#8bf9d6a4"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="959b4b17" textAlignment="2" fillColor="#ff00ff" type="1">
+      <bounds x="24" y="36" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e2a0a23e.xml#e2a0a23e"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="4e11b630" name="Netwerk &amp; Security Services">
+    <bounds x="300" y="172" width="360" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="3d6596b6" textAlignment="2" type="1">
+      <bounds x="25" y="36" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/502731e3.xml#502731e3"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="89853778" textAlignment="2" fillColor="#ff00ff" type="1">
+      <bounds x="21" y="119" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/c53f8592.xml#c53f8592"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="21355035" textAlignment="2" type="1">
+      <bounds x="25" y="192" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/1d2a2cd5.xml#1d2a2cd5"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="6b90e8dd" textAlignment="2" type="1">
+      <bounds x="23" y="268" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/ed2dc5f8.xml#ed2dc5f8"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="d211245e" textAlignment="2" type="1">
+      <bounds x="21" y="339" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/3fc4e189.xml#3fc4e189"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="39e84215" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="20" y="402" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e5dab478.xml#e5dab478"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="45ce7663" textAlignment="2" type="1">
+      <bounds x="25" y="475" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e2158c90.xml#e2158c90"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="f2741dd0" textAlignment="2" type="1">
+      <bounds x="23" y="561" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/08f724ca.xml#08f724ca"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="b680e083" textAlignment="2" type="1">
+      <bounds x="204" y="46" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/7d827f6a.xml#7d827f6a"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="b0ec647e" textAlignment="2" type="1">
+      <bounds x="203" y="118" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/38b86e4f.xml#38b86e4f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="40863f9e" textAlignment="2" fillColor="#ff00ff" type="1">
+      <bounds x="202" y="187" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/57c6a835.xml#57c6a835"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="fb086b27" textAlignment="2" fillColor="#ff00ff" type="1">
+      <bounds x="201" y="261" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/f94d071a.xml#f94d071a"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="82fb2b35" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="199" y="333" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/a6b9fa76.xml#a6b9fa76"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="4ca58a4f" textAlignment="2" type="1">
+      <bounds x="199" y="399" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/7048b4d4.xml#7048b4d4"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="e86a549d" textAlignment="2" type="1">
+      <bounds x="200" y="475" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/6c46c176.xml#6c46c176"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="ca482ed7" name="KA">
+    <bounds x="708" y="172" width="228" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="a75ad251" textAlignment="2" type="1">
+      <bounds x="53" y="48" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/9edda400.xml#9edda400"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="085e162d" textAlignment="2" type="1">
+      <bounds x="53" y="130" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Device" href="../technology/50cd3d73.xml#50cd3d73"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="d0906e24" textAlignment="2" type="1">
+      <bounds x="53" y="210" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/3d783af9.xml#3d783af9"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="97d1098f" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="53" y="292" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/86ae1f0f.xml#86ae1f0f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="acc2f97b" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="53" y="369" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/157d03e6.xml#157d03e6"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="70011038" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="53" y="469" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/01a220ce.xml#01a220ce"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="c3dd2d34" name="Identity Mgmt" textAlignment="1">
+    <bounds x="972" y="172" width="228" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="5f02abed" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="46" y="49" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e9541d12.xml#e9541d12"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="4402116e" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="46" y="135" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e6875ca3.xml#e6875ca3"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="f6c68c99" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="46" y="221" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/c2d61550.xml#c2d61550"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="8ca82b4a" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="46" y="302" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/ccc57f89.xml#ccc57f89"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="599c189e" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="46" y="394" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/584826ed.xml#584826ed"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="8715605b" textAlignment="2" type="1">
+      <bounds x="46" y="483" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/432503bb.xml#432503bb"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="e210167f" name="Device Mgmt">
+    <bounds x="1224" y="172" width="216" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="6a000a40" textAlignment="2" type="1">
+      <bounds x="49" y="54" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/9aef91f4.xml#9aef91f4"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="c9ad5fb2" textAlignment="2" type="1">
+      <bounds x="49" y="132" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/d902a6eb.xml#d902a6eb"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="fe515156" textAlignment="2" type="1">
+      <bounds x="49" y="204" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/6cdbca4d.xml#6cdbca4d"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="f43cfc88" textAlignment="2" type="1">
+      <bounds x="49" y="264" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Device" href="../technology/210cf17f.xml#210cf17f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="a78a741b" textAlignment="2" type="1">
+      <bounds x="49" y="418" width="120" height="85"/>
+      <archimateElement xsi:type="archimate:Device" href="../technology/a259f5cc.xml#a259f5cc"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="e44719f9" textAlignment="2" type="1">
+      <bounds x="49" y="336" width="120" height="72"/>
+      <archimateElement xsi:type="archimate:Device" href="../technology/bb8898a0.xml#bb8898a0"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="71d4c2be" textAlignment="2" type="1">
+      <bounds x="49" y="503" width="120" height="84"/>
+      <archimateElement xsi:type="archimate:Device" href="../technology/c44b0de4.xml#c44b0de4"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="650c03c1" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="49" y="600" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/e1d362e3.xml#e1d362e3"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="9f7dc64c" name="Beheer Tooling">
+    <bounds x="1488" y="172" width="216" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="cf641af4" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="17" y="34" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/27b3d16f.xml#27b3d16f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="280357c5" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="17" y="108" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/213f15b6.xml#213f15b6"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="26b5dfb7" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="25" y="188" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/534584e0.xml#534584e0"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="4058b87c" textAlignment="2" fillColor="#0080ff" type="1">
+      <bounds x="22" y="266" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/8daa8e75.xml#8daa8e75"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="cfe31eca" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="22" y="332" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/32255902.xml#32255902"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="4b9e9aa4" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="24" y="397" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/d19ca269.xml#d19ca269"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="afb6cc56" textAlignment="2" fillColor="#ffff00" type="1">
+      <bounds x="25" y="465" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/4752f3eb.xml#4752f3eb"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="4c2b1f52" name="Service Mgmt">
+    <bounds x="1752" y="172" width="340" height="687"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="a087c2a3" textAlignment="2" type="1">
+      <bounds x="33" y="44" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/9a5efc3d.xml#9a5efc3d"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="50574234" textAlignment="2" type="1">
+      <bounds x="30" y="114" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/5fe6e14f.xml#5fe6e14f"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="5ced1809" textAlignment="2" type="1">
+      <bounds x="33" y="190" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/66e10252.xml#66e10252"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="838a185c" textAlignment="2" type="1">
+      <bounds x="32" y="261" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/66d4aa7a.xml#66d4aa7a"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="64c52763" textAlignment="2">
+      <bounds x="32" y="334" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Artifact" href="../technology/7b0db63b.xml#7b0db63b"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="8f70b29f" textAlignment="2" type="1">
+      <bounds x="36" y="405" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/26263a5d.xml#26263a5d"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="0c12a938" textAlignment="2" type="1">
+      <bounds x="34" y="482" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:Node" href="../technology/ad9fb904.xml#ad9fb904"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

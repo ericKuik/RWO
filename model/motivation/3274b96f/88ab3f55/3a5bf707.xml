@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="3a5bf707" name="Beschikbaarheid van 7x24 bedrijfstoepassingen binnen klokuren is groter dan of gelijk aan 99,7%" documentation="Beschikbaarheid is de mate waarin de ICT-dienstverlening technisch en functioneel beschikbaar is voor gebruik.&#xA;&#xA;Een Bedrijfstoepassingen is een specifieke applicatie die door (of in opdracht van) Deelnemende Organisaties is ontwikkeld, dan wel is een niet-standaard applicatie die door een gespecialiseerde partij is geleverd.&#xA;&#xA;Klokuren: Alle uren van de dag, van 00.00 – 24.00 uur, zowel Werkdagen als niet-Werkdagen.">
+  <properties key="Brondocument" value="SLA Atos OCW"/>
+</archimate:Requirement>

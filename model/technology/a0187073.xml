@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="a0187073" name="NTP">
+  <properties key="Owner" value="Atos"/>
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

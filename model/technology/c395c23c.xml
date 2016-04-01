@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="c395c23c" name="Portal services " documentation="Een speciaal ontworpen webpagina die inhoud en/of toepassingen op een uniforme manier samenbrengt (presenteert) en aanbiedt aan een medewerker. De mate waarin inhoud en/of toepassingen worden weergegeven in een &quot;uniforme wijze&quot; kan afhangen van de beoogde gebruiker en de bestemming.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

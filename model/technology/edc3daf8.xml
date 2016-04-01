@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="edc3daf8" name="Network" documentation="De service “network” (Het ondersteunen van communicatie over een fysieke verbinding) levert fysieke verbindingen en zorgt voor het routeren en load balancen van netwerkverkeer. Netwerken kunnen over verschillende afstanden strekken, van Personal Area Network en Local Area Network tot Wide Area Network.">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

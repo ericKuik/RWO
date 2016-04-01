@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="1757677c" name="Database management" documentation="Het beheer van database management systemen, inclusief de performance, beschikbaarheid en integriteit van deze dbms systemen.">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

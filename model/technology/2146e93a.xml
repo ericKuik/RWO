@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="2146e93a" name="DNS" documentation="Om namen van computers naar numerieke adressen (IP-adressen) te vertalen en omgekeerd, gebruikt een client het DNS-protocol om aan een DNS-server een naam of adres op te vragen, waarop de DNS-server een antwoord terugstuurt.">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

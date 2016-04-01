@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureFunction xmlns:archimate="http://www.archimatetool.com/archimate" id="1561ab74" name="Permission register" documentation="Deze functie biedt een middel om machtigingen (technische voorstellingen van business rules over infrastructurele acties zoals het lezen of schrijven van informatie) op te slaan en  te publiceren."/>

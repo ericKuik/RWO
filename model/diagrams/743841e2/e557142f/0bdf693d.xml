@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="0bdf693d" name="SOLARCH Database">
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="a234fe29" textAlignment="2" targetConnections="96b8ef56" type="1">
+    <bounds x="691" y="204" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/2b827bc3.xml#2b827bc3"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="6ecf4efc" textAlignment="2" fillColor="#ff8040" type="1">
+    <bounds x="528" y="360" width="446" height="254"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="fe911049" textAlignment="2">
+      <bounds x="60" y="72" width="120" height="55"/>
+      <sourceConnections xsi:type="archimate:DiagramModelArchimateConnection" id="96b8ef56" source="fe911049" target="a234fe29">
+        <relationship xsi:type="archimate:RealisationRelationship" href="../../../relations/79cf717c.xml#79cf717c"/>
+      </sourceConnections>
+      <archimateElement xsi:type="archimate:SystemSoftware" href="../../../technology/15bccdda.xml#15bccdda"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="040093e6" textAlignment="2" type="1">
+      <bounds x="276" y="60" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/22eae76c.xml#22eae76c"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="e3e4ed4d" textAlignment="2" type="1">
+      <bounds x="276" y="156" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/22eae76c.xml#22eae76c"/>
+    </children>
+    <archimateElement xsi:type="archimate:Node" href="../../../technology/129094ea.xml#129094ea"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="9eed1559" textAlignment="2">
+    <bounds x="572" y="660" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:Network" href="../../../technology/bbb58574.xml#bbb58574"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="d5b1dfeb" textAlignment="2" type="1">
+    <bounds x="1128" y="192" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/8c1dcd92.xml#8c1dcd92"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="d0b8e592" name="Dictu">
+    <bounds x="12" y="204" width="400" height="316"/>
+    <children xsi:type="archimate:DiagramModelArchimateObject" id="38e17793" textAlignment="2" type="1">
+      <bounds x="36" y="36" width="120" height="55"/>
+      <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/ce1b32bc.xml#ce1b32bc"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="e6074a8b" textAlignment="2">
+    <bounds x="840" y="660" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:Network" href="../../../technology/dfc0e7e5.xml#dfc0e7e5"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelArchimateObject" id="0c8c2f7d" textAlignment="2" type="1">
+    <bounds x="1140" y="465" width="120" height="55"/>
+    <archimateElement xsi:type="archimate:InfrastructureService" href="../../../technology/8244c0ae.xml#8244c0ae"/>
+  </children>
+</archimate:ArchimateDiagramModel>

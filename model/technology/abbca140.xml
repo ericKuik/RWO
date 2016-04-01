@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="abbca140" name="Search engine " documentation="Het zoeken in allerlei vormen van gegevens, zowel gestructureerde als ongestructureede gegevens (zoals web content, e-mail en documenten).">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

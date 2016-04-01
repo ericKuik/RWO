@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="8aec15d3" name="Server OS" documentation="De basisfuncties die noodzakelijk zijn om server hardware te kunnen gebruiken.">
+  <properties key="Owner" value="OCW"/>
+</archimate:InfrastructureService>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="9a123c58" name="Document management " documentation="Het beheren van documenten en hun metadata, op een gestructureerde wijze.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="f9a58693" name="Device security" documentation="Het beveiligen van toegang tot apparatuur, bijvoorbeeld door specifieke invoermedia softwarematig of hardwarematig af te schermen.&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

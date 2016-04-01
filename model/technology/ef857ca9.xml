@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="ef857ca9" name="Document imaging" documentation="Het inscannen, indexeren, herkennen en converteren van fysieke documenten.">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

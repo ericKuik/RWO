@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="2b827bc3" name="Database " documentation="Het in gestructureerde vorm beheren van gegevens.&#xA;- SQL&#xA;- Oracle&#xA;- Postgress&#xA;&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

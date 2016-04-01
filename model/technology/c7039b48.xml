@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="c7039b48" name="Asset en configuration management " documentation="CMDB&#xA;Licentiemanagement">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

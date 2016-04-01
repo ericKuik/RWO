@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssociationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="16d05ea6">
+  <source xsi:type="archimate:BusinessActor" href="../business/ea1bd26e.xml#ea1bd26e"/>
+  <target xsi:type="archimate:Gap" href="../implementation_migration/ad5cdb79.xml#ad5cdb79"/>
+</archimate:AssociationRelationship>

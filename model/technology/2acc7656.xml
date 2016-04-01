@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="2acc7656" name="Network load balancing " documentation="Het verspreiden van inkomende berichten over meerdere IT systemen.&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

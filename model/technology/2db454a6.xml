@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="2db454a6" name="Client" documentation="Het verwerken van instructies op een fysieke client verwerkingseenheid.&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

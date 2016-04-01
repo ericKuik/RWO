@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:BusinessService xmlns:archimate="http://www.archimatetool.com/archimate" id="2658f4b6" name="Gegevens services" documentation="• Opslag voor email en generieke infrastructuur-services voor de mail-service;&#xA;• Groeps- en persoonlijke data middels “shares”;&#xA;• Gebruikersprofielen voor de werkomgeving;&#xA;• Applicatie- en file services ten behoeve van de BTO’s;&#xA;• Back-up.services naar tape ten behoeve van back-up/restore processen, disaster recovery en bewaarplicht van data.&#xA;"/>

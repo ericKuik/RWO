@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="aae002f0" name="System management " documentation="Het beheer van individuele machines (werkstations, servers), en het bewaken (monitoren) van de performance, beschikbaarheid en integriteit van deze machines.&#xA;- Client devices only&#xA;- Remote management&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

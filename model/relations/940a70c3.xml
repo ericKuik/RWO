@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssignmentRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="940a70c3">
+  <source xsi:type="archimate:Location" href="../business/8ddca691.xml#8ddca691"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/ddb75036.xml#ddb75036"/>
+</archimate:AssignmentRelationship>

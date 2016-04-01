@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Node xmlns:archimate="http://www.archimatetool.com/archimate" id="2568de6b" name="SPSS Licentieserver" documentation="De client applicatie SPSS controleert op de licentieserver of voldoende (concurrent) licenties beschikbaar zijn, als dat niet het geval is kan de gebruiker niet met SPSS werken."/>

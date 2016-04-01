@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="bbc58fb7" name="Gateways" documentation="Een gateway zorgt voor de vertaling en daarmee ook voor de verbinding van twee incompatibele netwerken&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

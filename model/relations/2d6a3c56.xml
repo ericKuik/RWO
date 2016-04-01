@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:RealisationRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="2d6a3c56">
+  <source xsi:type="archimate:InfrastructureService" href="../technology/de5f82b5.xml#de5f82b5"/>
+  <target xsi:type="archimate:Requirement" href="../motivation/74d1172a/872b9b64/4b3fc21e/4d2f04a5.xml#4d2f04a5"/>
+</archimate:RealisationRelationship>

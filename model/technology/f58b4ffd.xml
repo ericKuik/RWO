@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="f58b4ffd" name="Compute" documentation="De service “compute” (Het verwerken van instructies zodat deze conform de service levels kunnen worden uitgevoerd) biedt een brede interpretatie van verwerking; van de verwerking van processorinstructies tot aan de verwerking van documenten, telefoongespreken, beelden en geluid. Ook bevindt zich hier de machinevirtualisatielaag die zich richting het applicatieplatform manifesteert als een fysieke machine. Voor een applicatie is het niet nodig om te weten of dit een fysieke of virtuele machine betreft. &#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

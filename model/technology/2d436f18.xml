@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="2d436f18" name="Encryption" documentation="Het versleutelen van gegevens zodat deze niet inzichtelijk zijn voor onbevoegden.&#xA;- PKI&#xA;- Transport encryptie&#xA;- Data encryptie">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

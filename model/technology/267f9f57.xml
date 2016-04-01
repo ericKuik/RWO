@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="267f9f57" name="Multimedia " documentation="Het afspelen en bewerken van audio en video.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

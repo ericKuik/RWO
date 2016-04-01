@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="d02a9278" name="Management" documentation="De service “management” (Het ondersteunen van het beheer van IT componenten) bestaat uit grofweg twee delen:&#xA;- Het eerste deel richt zich met name op het beheerproces. Centraal daarbij staan processen als service desk, problem management, change management en configuratie management. Dit is waar IT-servicemanagementsystemen worden ingezet.&#xA;- Het tweede deel van de service richt zich op het beheer van elementen en het operationeel bewaken van de serviceniveau’s van deze elementen. In het algemeen is dit het inzetgebied van systemsmanagementtools, die in veel verschillende soorten bestaan. Zo is bijvoorbeeld netwerkbeheer een specialistisch gebied waar hele specifieke tools voor beschikbaar zijn.&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

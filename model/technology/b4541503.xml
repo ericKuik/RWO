@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="b4541503" name="Application management " documentation="Het beheer van individuele of een keten aan applicaties , en het bewaken (monitoren) van  de performance, beschikbaarheid en integriteit van de applicatie of keten.&#xA;&#xA;Technisch applicatiebeheer&#xA;Releasemanagement&#xA;&#xA;&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

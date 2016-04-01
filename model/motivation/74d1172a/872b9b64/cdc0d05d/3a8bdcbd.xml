@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="3a8bdcbd" name="OTA-straten kunnen permanent zijn, maar ook projectmatig cq tijdelijk" documentation="OTA-straten kunnen permanent zijn, maar ook projectmatig cq tijdelijk, waarbij een OTA-straat na een succesvolle implementatie van een nieuwe release in de Productie verwijderd worden. "/>

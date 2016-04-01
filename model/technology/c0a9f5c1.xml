@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="c0a9f5c1" name="Server" documentation="Het verwerken van instructies op een fysieke server verwerkingseenheid.&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

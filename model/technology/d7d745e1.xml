@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="d7d745e1" name="Malware en spamfiltering " documentation="Het detecteren en verwijderen van virussen, spyware en spam.&#xA;">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

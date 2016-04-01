@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="68f01864" name="Netwerkrouting / switching " documentation="Het routeren van berichten naar netwerksegmenten&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

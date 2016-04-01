@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="a361417e">
+  <properties key="Soll Actor" value="ICT-N"/>
+  <source xsi:type="archimate:InfrastructureService" href="../technology/ce1b32bc.xml#ce1b32bc"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/74a9efc0.xml#74a9efc0"/>
+</archimate:UsedByRelationship>

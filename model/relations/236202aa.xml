@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:AssignmentRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="236202aa">
+  <source xsi:type="archimate:BusinessActor" href="../business/b048abb4.xml#b048abb4"/>
+  <target xsi:type="archimate:BusinessProcess" href="../business/49038d7a.xml#49038d7a"/>
+</archimate:AssignmentRelationship>

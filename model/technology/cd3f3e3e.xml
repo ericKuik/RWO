@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="cd3f3e3e" name="External access " documentation="Het vanaf een andere lokatie bieden van toegang tot een netwerk (VPN).&#xA;">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

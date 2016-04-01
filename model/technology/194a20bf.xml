@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="194a20bf" name="System deployment " documentation="Het verspreiden en installeren van het besturingssysteem en patches op virtuele of fysieke systemen, zoveel mogelijk op geautomatiseerde wijze.&#xA;">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

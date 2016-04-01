@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="fee4a8a9" name="DHCP" documentation="Dynamic Host Configuration Protocol (DHCP) is een computerprotocol dat beschrijft hoe een computer dynamisch zijn netwerkinstelling van een DHCP-server kan verkrijgen. ">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

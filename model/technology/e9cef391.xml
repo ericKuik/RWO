@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="e9cef391" name="Message routing " documentation="Het routeren en vertalen van protocollen en berichten&#xA;- alleen RPC, P2P koppelingen">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

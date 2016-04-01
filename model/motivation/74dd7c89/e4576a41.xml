@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="e4576a41" name="Voor iedere applicatie en nieuwe release wordt in de acceptatietest vastgesteld of deze voldoet aan de prestatie-eisen met betrekking tot reactiesnelheid.">
+  <properties key="Brondocument" value="SLA Atos OCW"/>
+</archimate:Requirement>

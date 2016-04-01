@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="d7697aa5" name="Infrastructure" documentation="De onderste laag van de architectuur is de fysieke infrastructuur. Deze bestaat vrijwel geheel uit fysieke apparatuur en verbindingen. Hier vindt verwerking en opslag van instructies en gegevens plaats en worden gegevens getransporteerd over het netwerk.">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="ce1b32bc" name="Access management" documentation="Het vaststellen dat een subject (persoon of systeem) voldoende heeft aangetoond dat hij een bepaalde identiteit heeft en de juiste rechten om een autorisatieobject te benaderen.&#xA;&#xA;Network access control&#xA;- Tokens&#xA;Firewall&#xA;Autorisatiebeheer&#xA;&#xA;">
+  <properties key="Soll Actor" value="SSO Noord"/>
+</archimate:InfrastructureService>

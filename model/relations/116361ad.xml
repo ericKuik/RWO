@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:UsedByRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="116361ad" documentation="deze relatie behelst het mogelijk gebruik maken van Lync functionaliteit zonder de ICA client. Indien dit wel in het ICA /HDX protocol wordt afgehandelt vervalt deze directe relatie.&#xA;">
+  <source xsi:type="archimate:InfrastructureService" href="../technology/c91b6dca.xml#c91b6dca"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/bb9ff9a2.xml#bb9ff9a2"/>
+</archimate:UsedByRelationship>

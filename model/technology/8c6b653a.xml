@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="8c6b653a" name="Reproduce " documentation="Het digitaliseren van fysieke documenten, afdrukken van documenten en vermenigvuldigen van documenten.&#xA;betreft netwerk printer/MFP's&#xA;Canon's&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

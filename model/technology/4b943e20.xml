@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="4b943e20" name="Storage" documentation="De service “storage” (Het fysiek opslaan van gegevens) is waar gegevens fysiek worden opgeslagen. Dit kan centraal op een Storage Area Network of decentraal via Network Attached Storage. Voor archivering wordt bij voorkeur gebruik gemaakt van opslagmechanismen die een langere duurzaamheid hebben zoals bijvoorbeeld optische schijven. Back-up zorgt ervoor dat gegevens in het geval van verstoringen weer kunnen worden hersteld. Traditioneel is dit een off-line backup op een tape library. On-line back-up zorgt voor snelle back-up en restore op toegang ervoor dat gegevens snel opgeslagen en hersteld worden waardoor verstoringen een minimale impact hebben.">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

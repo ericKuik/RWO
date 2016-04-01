@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="e70e5b12" name="Identity management " documentation="Het beheren van de identiteiten van gebruikers, hun rollen, autorisaties en authenticatiegegevens.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

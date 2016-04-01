@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Principle xmlns:archimate="http://www.archimatetool.com/archimate" id="afbfbfbd" name="Infrastructuurcomponenten kunnen afhankelijk van elkaar zijn. Om deze afhankelijkheid zo flexibel en los van elkaar te zien, zorgt dit ervoor dat de infrastructuur eenvoudig aan te passen is."/>

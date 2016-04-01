@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:CompositionRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="7ff79832">
+  <source xsi:type="archimate:InfrastructureService" href="../technology/bdc51b62.xml#bdc51b62"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/6722a6f2.xml#6722a6f2"/>
+</archimate:CompositionRelationship>

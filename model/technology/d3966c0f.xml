@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="d3966c0f" name="Document generation " documentation="Het bieden van formulieren die elektronisch ingevuld en ingediend kunnen worden.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

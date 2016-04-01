@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="b62a0711" name="Access management" documentation="Het vaststellen dat een subject (persoon of systeem) voldoende heeft aangetoond dat hij een bepaalde identiteit heeft en de juiste rechten om een autorisatieobject te benaderen.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

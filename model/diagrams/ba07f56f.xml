@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:ArchimateDiagramModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="ba07f56f" name="1. Overview">
+  <children xsi:type="archimate:DiagramModelGroup" id="abe9613e" name="Business layer" fillColor="#ffff80">
+    <bounds x="24" y="24" width="889" height="337"/>
+    <children xsi:type="archimate:DiagramModelReference" id="6f21e2fd" textAlignment="2">
+      <bounds x="24" y="36" width="271" height="121"/>
+      <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="54f89b81.xml#54f89b81"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelReference" id="a62123ac" textAlignment="2">
+      <bounds x="372" y="36" width="228" height="96"/>
+      <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="ad263b45.xml#ad263b45"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelReference" id="be38cffb" textAlignment="2">
+      <bounds x="698" y="206" width="120" height="55"/>
+      <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="56a7c3f3.xml#56a7c3f3"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="c8f4279c" name="Informatie layer" fillColor="#aad5ff">
+    <bounds x="31" y="394" width="882" height="339"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelGroup" id="786aac1c" name="Techology layer" fillColor="#66b34d">
+    <bounds x="36" y="768" width="882" height="384"/>
+    <children xsi:type="archimate:DiagramModelReference" id="d3f961b7" textAlignment="2">
+      <bounds x="48" y="108" width="260" height="151"/>
+      <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="bc0a2f6c.xml#bc0a2f6c"/>
+    </children>
+    <children xsi:type="archimate:DiagramModelReference" id="1537b1b2" textAlignment="2">
+      <bounds x="552" y="108" width="233" height="156"/>
+      <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="08304d24.xml#08304d24"/>
+    </children>
+  </children>
+  <children xsi:type="archimate:DiagramModelReference" id="8e3fa73f" textAlignment="2">
+    <bounds x="973" y="48" width="120" height="1104"/>
+    <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="5657b5df.xml#5657b5df"/>
+  </children>
+  <children xsi:type="archimate:DiagramModelReference" id="aed8632d" textAlignment="2">
+    <bounds x="1116" y="48" width="120" height="1104"/>
+    <referencedModel xsi:type="archimate:ArchimateDiagramModel" href="287a78f7.xml#287a78f7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

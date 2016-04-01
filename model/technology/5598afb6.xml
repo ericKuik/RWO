@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="5598afb6" name="Security management " documentation="Het beheer van beveiligingscomponenten en het bewaken (loggen, monitoren en alerten) van de performance, beschikbaar en integriteit van deze componenten.&#xA;">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

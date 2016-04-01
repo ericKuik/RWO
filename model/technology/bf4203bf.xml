@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="bf4203bf" name="Office Suite " documentation="Standaard kantoorfuncties voor het bewerken van tekstdocumenten, spreadsheets en presentaties.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

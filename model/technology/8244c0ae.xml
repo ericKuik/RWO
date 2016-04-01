@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="8244c0ae" name="Shared storage" documentation="Opslag die op een centrale lokatie plaats vindt.&#xA;Block storage&#xA;object storage&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="1c3c97e9" name="Shared storage" documentation="Opslag die op een centrale lokatie plaats vindt.&#xA;Block strorage&#xA;object storage&#xA;">
+  <properties key="Owner" value="Atos"/>
+</archimate:InfrastructureService>

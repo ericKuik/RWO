@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="7ee7e257" name="Security" documentation="“Security” doorkruist alle clusters. Dit betekent dat hier functionaliteiten in zijn gedefinieerd die beschikbaar zijn als applicatiebeheer voor eindgebruikers, maar ook functionaliteiten die meer “onder de motorkap” werken.&#xA;&#xA;De basis voor de beveiliging is het  identitymanagementsysteem waarin de gebruikers, hun rollen en autorisaties zijn gedefinieerd. Access management zorgt voor het gebruik van de informatie in een dergelijk systeem voor het daadwerkelijk authenticeren en autoriseren van gebruikers.&#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

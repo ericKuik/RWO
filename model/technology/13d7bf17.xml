@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="13d7bf17" name="Content presentation " documentation="Het ontsluiten van content (inclusief documenten) richting de gebruiker, die hier op een gebruikersvriendelijke wijze doorheen kan navigeren.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

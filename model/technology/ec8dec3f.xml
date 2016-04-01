@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="ec8dec3f" name="Terminal emulation " documentation="Een softwareprogramma die de werking van een terminal nabootst. Zo wordt het mogelijk een device te creëren dat zowel voor de bediening van de centrale computer als voor de verwerking van lokale programmatuur bruikbaar is.">
+  <properties key="Soll Actor" value="Dictu"/>
+</archimate:InfrastructureService>

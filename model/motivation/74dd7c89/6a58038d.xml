@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:Requirement xmlns:archimate="http://www.archimatetool.com/archimate" id="6a58038d" name="Een applicatie kan pas worden uitgerold indien wordt voldaan aan de prestatie-eisen.">
+  <properties key="Brondocument" value="SLA Atos OCW"/>
+</archimate:Requirement>

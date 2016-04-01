@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="f7bbec95" name="Email &amp; agenda " documentation="alleen mail van backend applicaties. Hiervoor dient ook een mail omgeving te worden ingericht met mailboxen welke middels de mail &#xA;routering aan de applicaties kunnen worden aangeboden.">
+  <properties key="Soll Actor" value="ICT-N"/>
+</archimate:InfrastructureService>

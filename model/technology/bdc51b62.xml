@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="bdc51b62" name="Housing" documentation="De service “housing” biedt voorzieningen aan voor het behuizen van fysieke apparatuur en verbindingen. ">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:InfrastructureService xmlns:archimate="http://www.archimatetool.com/archimate" id="f81e8376" name="Operating system" documentation="De basis wordt gevormd de service “operating system” (Het besturen van de bronnen van (fysieke of virtuele) machines.), het besturingssysteem van de machine. Deze service vormt de horizontale laag van de infrastructuur applicaties. Hier wordt de virtuele of fysieke machine bestuurt en voorzien van een hogere performance, beschikbaarheid en flexibiliteit. &#xA;">
+  <properties key="Owner" value="ODC Noord"/>
+</archimate:InfrastructureService>

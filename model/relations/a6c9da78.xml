@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:FlowRelationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" id="a6c9da78">
+  <source xsi:type="archimate:InfrastructureService" href="../technology/f58b4ffd.xml#f58b4ffd"/>
+  <target xsi:type="archimate:InfrastructureService" href="../technology/806ddc3b.xml#806ddc3b"/>
+</archimate:FlowRelationship>
